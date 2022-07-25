@@ -1,0 +1,38 @@
+{
+  "../src/components/animate/MotionLazyContainer.js -> ./features.js": {
+    "id": 82754,
+    "files": [
+      "static/chunks/935.1ff30b9a4b0763f6.js",
+      "static/chunks/754.ebe22e27adb496e1.js"
+    ]
+  },
+  "../src/layouts/index.js -> ./footer/Footer": {
+    "id": 30680,
+    "files": [
+      "static/chunks/706-960b46aa30211078.js",
+      "static/chunks/252-b1c812d47106829c.js",
+      "static/chunks/680.9c4f61f07524d94f.js"
+    ]
+  },
+  "../src/layouts/index.js -> ./footer/FooterSimple": {
+    "id": 87634,
+    "files": [
+      "static/chunks/634.ce87a4b57dcb6c8d.js"
+    ]
+  },
+  "../src/layouts/index.js -> ./header/Header": {
+    "id": 21481,
+    "files": [
+      "static/chunks/706-960b46aa30211078.js",
+      "static/chunks/276-e398108fbdc8ce1c.js",
+      "static/chunks/232.cb538751cdc70172.js",
+      "static/chunks/481.9880896acb1d5562.js"
+    ]
+  },
+  "../src/layouts/index.js -> ./header/HeaderSimple": {
+    "id": 73343,
+    "files": [
+      "static/chunks/343.0772546c10b2942b.js"
+    ]
+  }
+}
